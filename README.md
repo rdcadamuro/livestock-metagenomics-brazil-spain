@@ -1,18 +1,5 @@
 # Genome-resolved metagenomics of livestock waste in Brazil and Spain: resistome structure, mobilome, and phage-host associations
 
-**Rafael Dorighello Cadamuro**, Tatiane Soratto, Álvaro Cañete Reyes, Glauber Wagner, Björn Andersson, Aline Viancelli, William Michelon, Paula Rogovski, David Rodríguez-Lázaro, Gislaine Fongaro
-
-*Manuscript submitted to Environmental Microbiome*
-
----
-
-## Overview
-
-This repository contains all analysis scripts used in the comparative metagenomics study of bacterial MAGs and viral genomes (uViGs) recovered from Brazilian (broiler litter and swine biodigesters) and Spanish (swine slurry) livestock waste metagenomes. The study integrates resistome, mobilome, anti-phage defense, and phage-host interaction analyses within a One Health framework.
-
-**Final dataset:** 729 quality-filtered MAGs (Brazil, 557; Spain, 172) and 5,851 uViGs (Brazil, 4,246; Spain, 1,605).
-
----
 
 ## Data availability
 
